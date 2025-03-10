@@ -1,0 +1,17 @@
+[2025-03-10 12:00:08] Starting WebGhoster in dir mode against https://tamilchristian.in
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     https://tamilchristian.in
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                wordlist/common.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+
+[2025-03-10 12:00:11] WebGhoster scan completed!
